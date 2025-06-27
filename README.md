@@ -25,7 +25,7 @@ And now just use make and use the program with a valid map
 ```bash
 ./cub3d ./maps/path_map
 ```
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/gabriel-bastos-sobral-5aa8ba224/))
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-bastos-sobral-5aa8ba224/)
 
 ![Logo](https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png?raw=true)
 
