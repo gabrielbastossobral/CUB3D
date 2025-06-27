@@ -1,7 +1,7 @@
 
 # CUB3D
 
-This is a minigame like doom, that I made with my friend @Gbriel70. We used RayCasting to make that, and the language C.
+This is a minigame like doom, that I made with my friend - [@Gbriel70](https://github.com/Gbriel70). We used RayCasting to make that, and the language C.
 
 Some rules of the game:
 * WASD to move, QE or Left/Right directional keys to rotate camera
